@@ -12,7 +12,7 @@ This is a showcase for Microsoft to work on issue with detailed provided below:
     * Reboot the machine
     * Create a simple WinForms application and navigate to any website trying to access Intl API our case was testing if Intl.v8BreakIterator is defined
 The actual piece of code that triggers the issue:
-const hasV8BreakIterator = (typeof Intl !== 'undefined' && (Intl as any).v8BreakIterator);
+`const hasV8BreakIterator = (typeof Intl !== 'undefined' && (Intl as any).v8BreakIterator);`
     * You would get the following error: "typeError: intl is not available"
     * Uninstall kb4489881
     * Reboot the machine
