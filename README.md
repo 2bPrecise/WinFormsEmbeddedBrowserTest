@@ -31,3 +31,6 @@ The actual piece of code that triggers the issue:
     * Microsoft Product Version/Service Pack        
         * Windows 8.1 Enterprise Evaluation
         * Windows Server 2012 (No SP) 
+
+# Info
+* Microsoft Update the casued the issue: https://support.microsoft.com/en-us/help/4489881/windows-8-1-update-kb4489881
