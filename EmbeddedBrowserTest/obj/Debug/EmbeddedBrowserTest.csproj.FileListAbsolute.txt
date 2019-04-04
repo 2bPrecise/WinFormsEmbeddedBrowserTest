@@ -1,0 +1,10 @@
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\bin\Debug\EmbeddedBrowserTest.exe.config
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\bin\Debug\EmbeddedBrowserTest.exe
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\bin\Debug\EmbeddedBrowserTest.pdb
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\obj\Debug\EmbeddedBrowserTest.csprojAssemblyReference.cache
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\obj\Debug\EmbeddedBrowserTest.Form1.resources
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\obj\Debug\EmbeddedBrowserTest.Properties.Resources.resources
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\obj\Debug\EmbeddedBrowserTest.csproj.GenerateResource.cache
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\obj\Debug\EmbeddedBrowserTest.csproj.CoreCompileInputs.cache
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\obj\Debug\EmbeddedBrowserTest.exe
+C:\Users\AOHAYON\Documents\Visual Studio 2017\Projects\EmbeddedBrowserTest\EmbeddedBrowserTest\obj\Debug\EmbeddedBrowserTest.pdb
